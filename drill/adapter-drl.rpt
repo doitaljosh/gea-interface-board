@@ -1,0 +1,27 @@
+Drill report for /home/doitaljosh/Desktop/software-development/ge-appliances/bus-interface-circuit/interface-board/adapter.kicad_pcb
+Created on Tue 18 Feb 2020 09:14:59 AM EST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'adapter-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (96 holes)
+    T2  0.50mm  0.020"  (32 holes)
+    T3  0.76mm  0.030"  (16 holes)
+    T4  1.00mm  0.039"  (20 holes)
+    T5  3.50mm  0.138"  (4 holes)
+
+    Total plated holes count 168
+
+
+Drill file 'adapter-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.20mm  0.126"  (4 holes)
+
+    Total unplated holes count 4

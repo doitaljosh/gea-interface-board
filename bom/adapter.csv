@@ -1,0 +1,15 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"H4,H2,H3,H1";"MountingHole_3.5mm_Pad_Via";4;"MountingHole_3.5mm_Pad_Via";;;
+2;"C101,C102,C103,C104,C201,C202,C203,C204";"CP_EIA-1608-10_AVX-L";8;"0.1u";;;
+3;"D101,D201";"SOT-23";2;"BAV99";;;
+4;"D102,D103,D104,D105,D202,D203,D204,D205";"LED_0603_1608Metric";8;"LED";;;
+5;"J101";"RJ45_Amphenol_54602-x08_Horizontal";1;"GEABus IN CH1";;;
+6;"J201";"RJ45_Amphenol_54602-x08_Horizontal";1;"GEABus IN CH2";;;
+7;"J1201";"PinHeader_2x10_P2.54mm_Vertical";1;"UART";;;
+8;"Q101,Q201";"SOT-323_SC-70";2;"DTA143X";;;
+9;"R101,R201";"R_0603_1608Metric";2;"47k";;;
+10;"R102,R202";"R_0603_1608Metric";2;"120";;;
+11;"R103,R203";"R_0603_1608Metric";2;"22k";;;
+12;"R104,R105,R106,R107,R204,R205,R206,R207";"R_0603_1608Metric";8;"330";;;
+13;"U101,U201";"SOT-553";2;"74LVC1GU04DRL";;;
+14;"U1201";"SOT-223-3_TabPin2";1;"AMS1117-5.0";;;
